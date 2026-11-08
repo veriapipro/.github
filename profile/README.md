@@ -7,7 +7,7 @@ Turkish public data in one REST API: prayer times, weather, exchange rates and g
 - Ücretsiz anahtar, kart gerekmez: <https://veriapi.pro/?ref=github>
 - Dokümantasyon: <https://veriapi.pro/dokumantasyon>
 - OpenAPI: <https://api.veriapi.pro/v1/openapi.json>
-- MCP sunucusu (Claude, ChatGPT, Cursor): `https://api.veriapi.pro/v1/mcp`
+- MCP sunucusu (Claude, ChatGPT, Cursor): `https://api.veriapi.pro/v1/mcp` — kurulum: [veriapi-mcp](https://github.com/veriapipro/veriapi-mcp)
 
 ## Resmî SDK'lar
 

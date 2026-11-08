@@ -15,7 +15,7 @@ Turkish public data in one REST API: prayer times, weather, exchange rates and g
 |---|---|---|
 | PHP | [veriapi-php](https://github.com/veriapipro/veriapi-php) | `composer require veriapi/sdk` |
 | Python | [veriapi-python](https://github.com/veriapipro/veriapi-python) | `pip install veriapi` |
-| JavaScript / TypeScript | [veriapi-js](https://github.com/veriapipro/veriapi-js) | `npm install @veriapi/sdk` |
+| JavaScript / TypeScript | [veriapi-js](https://github.com/veriapipro/veriapi-js) | `npm install @veriapipro/sdk` |
 | Go | [veriapi-go](https://github.com/veriapipro/veriapi-go) | `go get github.com/veriapipro/veriapi-go` |
 
 Hepsi bağımlılıksız ve MIT lisanslı.

@@ -20,6 +20,12 @@ Turkish public data in one REST API: prayer times, weather, exchange rates and g
 
 Hepsi bağımlılıksız ve MIT lisanslı.
 
+## Örnek projeler
+
+| Proje | Ne yapar |
+|---|---|
+| [nobetci-eczane-ornegi](https://github.com/veriapipro/nobetci-eczane-ornegi) | İl ve ilçeye göre bugünün nöbetçi eczaneleri: PHP ve Node.js, sitenize eklenecek hazır sayfa |
+
 ## Hızlı deneme
 
 ```bash
